@@ -74,5 +74,7 @@ ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 ### Terminal 2:
 
 ```
-ros2 run tf2_ros static_transform_publisher "0" "0" "0" "0" "0" "0" "burger/base_scan/hls_lfcd_lds" "base_scan"
+ros2 run tf2_ros static_transform_publisher "0" "0" "0" "0" "0" "0" "base_scan" "burger/base_scan/hls_lfcd_lds"
 ```
+
+<img width="2205" height="884" alt="Screenshot from 2025-08-20 14-27-44" src="https://github.com/user-attachments/assets/36b35807-8712-4f28-a739-1623a4c14a53" />
