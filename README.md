@@ -9,6 +9,8 @@ Files to add a 3D lidar to a turtlebot3 in Gazebo Harmonic
 
 - `ros-jazzy-turtlebot3-gazebo` is installed
 
+- modifications were made to the tb3 burger, but could be adpated to waffle or waffle_pi
+
 ## Setup
 
 Note, this was done in a docker container.
